@@ -1,6 +1,7 @@
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/f4212da9-2f30-44c8-be00-d1d70ce2ed8a" />
+
 # 💫 About Me:
 🔭 I am a student from Ateneo de Davao University.<br>🤝 I’m looking for help with UI/UX techniques.<br>🌱 I’m currently learning the courses information technology has to offer.<br>💬 Ask me about hobbies.<br>⚡ Fun fact, I collect 1:64 diecast cars and comic books!
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mclovin659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ntmxr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-ashley-maxey-4a5639330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasmaxey@addu.edu.ph) 

@@ -1,4 +1,7 @@
-<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/f4212da9-2f30-44c8-be00-d1d70ce2ed8a" />
+<p align="center>
+  <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/f4212da9-2f30-44c8-be00-d1d70ce2ed8a" />
+</p>
+
 
 # 💫 About Me:
 🔭 I am a student from Ateneo de Davao University.<br>🤝 I’m looking for help with UI/UX techniques.<br>🌱 I’m currently learning the courses information technology has to offer.<br>💬 Ask me about hobbies.<br>⚡ Fun fact, I collect 1:64 diecast cars and comic books!

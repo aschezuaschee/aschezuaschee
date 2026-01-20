@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" alt="logo" src="https://github.com/aschezuaschee/aschezuaschee/blob/main/branding/banner/profile%20banner.png?raw=true" />
+  <img alt="logo" src="https://github.com/aschezuaschee/aschezuaschee/blob/main/branding/banner/profile%20banner.png?raw=true" />
 </p>
 
 
